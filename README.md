@@ -7,5 +7,5 @@
 </ol>
 <h2>Requirements</h2>
 <h4>Make sure you have the following libraries installed in your environment before running this.</h4>
-<br><h3>Libraries are:</h3>
+<h3>Libraries are:</h3>
 <h4>tensorflow, keras, opencv, numpy, pandas, matplotlib, seaborn, scikit-learn, pillow</h4>
