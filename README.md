@@ -1,5 +1,6 @@
 <h1>Emotion Based Music Player for Autistic People</h1>
 <h3>An emotion based music player built using Deep Learning and TKinter, designed to detect emotions in autistic people and play music that aligns with detected mood.</h3>
+<h4> Used pre-trained model, MobileNetV2 for emotion detection </h4>
 <h2>Datasets used</h2>
 <ol>
   <li>Emotion Detecttion: Made a custom dataset from other datasets listed below</li>
